@@ -1,4 +1,4 @@
-# local-llm-loop-a
+# local-llm-loop ver2
 
 로컬 LLM(Ollama)으로 복합 질문을 서브질문으로 분해하고
 각 서브질문을 순서대로 loop 판단하여 최종 답변을 합성하는 프로젝트
